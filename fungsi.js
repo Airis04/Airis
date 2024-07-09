@@ -4,8 +4,8 @@ console.log(add(2,3))
 const subtract = (a,b) => a - b;
 console.log(subtract(5,2));
 
-const multiply = (a , b) => a * b;
-console.log(multiply(3,3));
+const multiplyNumber = (a , b) => a * b;
+console.log(multiplyNumber(3,3));
 
 const divide = (a,b) => a / b;
 console.log(divide(10,2))
