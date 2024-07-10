@@ -9,3 +9,5 @@ console.log(multiplyNumber(3,3));
 
 const divide = (a,b) => a / b;
 console.log(divide(10,2))
+
+console.log("belajar bersama sepuh gading")
